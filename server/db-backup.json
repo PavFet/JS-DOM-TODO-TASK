@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Pavadinimas 1",
+      "done": true
+    },
+    {
+      "id": "2",
+      "title": "Pavadinimas 2",
+      "done": false
+    },
+    {
+      "id": "3",
+      "title": "Pavadinimas 3",
+      "done": false
+    },
+    {
+      "id": "4",
+      "title": "Pavadinimas 4",
+      "done": true
+    },
+    {
+      "id": "5",
+      "title": "Pavadinimas 5",
+      "done": false
+    }
+  ]
+}
